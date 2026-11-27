@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\SMT_Lab10_PMS_API.slnx",
+    "projects": [
+      "SMT_Lab10_PMS_API\\SMT_Lab10_PMS_API.csproj"
+    ]
+  }
+}
